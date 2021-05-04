@@ -16,8 +16,6 @@ public class Main {
 		InstructorManager instructorManager = new InstructorManager();
 		instructorManager.addCourses(course,instructor);
 		
-		//int id,String firstName, String lastName, String email, String userName, String course
-		
 		
 		
 		Student student = new Student(2,"Ahmet","Abc","cba@hotmail.com","Ahmeta","java");
